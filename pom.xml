@@ -50,7 +50,7 @@
         <blade-log.version>0.2.0</blade-log.version>
         <blade-kit.version>${project.parent.version}</blade-kit.version>
         <blade-core.version>${project.parent.version}</blade-core.version>
-        <gson.version>2.9.0</gson.version>
+        <gson.version>2.14.0</gson.version>
         <bootstrap.version>5.0.0</bootstrap.version>
         <mockito.version>1.10.19</mockito.version>
         <unirest-java.version>1.4.9</unirest-java.version>
